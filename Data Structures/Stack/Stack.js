@@ -1,3 +1,6 @@
+/**
+ * Constructs an empty Stack.
+ */
 function Stack(){
     this.count = 0;
     this.stackArray = [];
