@@ -4,7 +4,8 @@
 If the pancake analogy didn't make much sense to you, here's some other analogies, a stack of... clothes, plates, books, towels, and the list goes on. "What can you use stacks for?" You may be asking. Well honestly I haven't personally used a stack outside of my courses and well this, but some ways to use a stack and some ways stacks have been used are to reverse a word, backtracking, parenthesis validation, among other things.  -->
 
 ## Time Complexity
-<!-- **Search:** O(n) <br />
-**Insertion:** O(1) <br />
-**Access:** O(n) <br />
-**Delete:** O(1) <br /> -->
+### Binary Search Tree <br />
+**Search:** O(log(n)) <br />
+**Insertion:** O(log(n)) <br />
+**Access:** O(log(n)) <br />
+**Delete:** O(log(n)) <br />
