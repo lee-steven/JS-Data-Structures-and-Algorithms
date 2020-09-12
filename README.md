@@ -11,3 +11,5 @@ If you have any questions/suggestions/anything feel free to reach out!
 Data Structures
 - [Linked Lists](https://github.com/lee-steven/JS-Data-Structures-and-Algorithms/tree/master/Data%20Structures/Linked%20List)
 - [Stack](https://github.com/lee-steven/JS-Data-Structures-and-Algorithms/tree/master/Data%20Structures/Stack)
+- [Queue](https://github.com/lee-steven/JS-Data-Structures-and-Algorithms/tree/master/Data%20Structures/Queue)
+- [Trees](https://github.com/lee-steven/JS-Data-Structures-and-Algorithms/tree/master/Data%20Structures/Trees)

@@ -30,10 +30,6 @@ BSTNode.prototype.add = function(value){
     }
 }
 
-BSTNode.prototype.delete = function(value){
-
-}
-
 /**
  * Get the current size of the binary search tree.
  * @return {number} The size of the binary search tree.
