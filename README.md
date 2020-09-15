@@ -13,3 +13,8 @@ Data Structures
 - [Stack](https://github.com/lee-steven/JS-Data-Structures-and-Algorithms/tree/master/Data%20Structures/Stack)
 - [Queue](https://github.com/lee-steven/JS-Data-Structures-and-Algorithms/tree/master/Data%20Structures/Queue)
 - [Trees](https://github.com/lee-steven/JS-Data-Structures-and-Algorithms/tree/master/Data%20Structures/Trees)
+
+<br />
+Algorithms
+
+- [Binary Search](https://github.com/lee-steven/JS-Data-Structures-and-Algorithms/tree/master/Algorithms/Binary%20Search)
